@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **churchilldaniel687@gmail.com**
 
-- ⚡ Fun fact **I have a Never built a calculator before**
+- ⚡ Fun fact **I have Never built a calculator before**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
