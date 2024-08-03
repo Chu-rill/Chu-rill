@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table style="width:100%; background-color: #333; color: white; padding: 10px; border-spacing: 15px;">
+<table align="center" style="width:100%; background-color: #333;  padding: 10px; border-spacing: 15px;">
   <tr>
     <td align="center">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="display: inline-block; border-radius: 10px;">
