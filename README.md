@@ -131,4 +131,4 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=chu-rill&show_icons=true&theme=gruvbox" alt="chu-rill" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chu-rill&theme=gruvbox" alt="chu-rill" /></p>
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=chu-rill](https://github-readme-stats.vercel.app/api/wakatime?username=chu_rill)&theme=gruvbox" alt="chu-rill" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chu_rill&theme=gruvbox" alt="chu-rill" /></p>
