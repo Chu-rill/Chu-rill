@@ -25,10 +25,10 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=git,css,express,github,html,js,mint,mongodb,mysql,nodejs,postgres,postman,react,supabase,tailwind,vite,vscode,&theme=darkperline=3" />
+
 <p align="center">
   <a href="https://skillicons.dev">
-    
+    <img src="https://skillicons.dev/icons?i=git,css,express,github,html,js,mongodb,mysql,nodejs,postgres,postman,react,tailwind,vscode&theme=dark" />
   </a>
 </p>
 
