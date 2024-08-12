@@ -127,8 +127,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chu-rill&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="chu-rill" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chu-rill&show_icons=true&locale=en&layout=compact" alt="chu-rill" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chu-rill&show_icons=true&locale=en" alt="chu-rill" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chu-rill&" alt="chu-rill" /></p>
