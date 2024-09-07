@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Reactjs and Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://chu-rill.github.io/Portfolio/index.html](https://chu-rill.github.io/Portfolio/index.html)
+- 👨‍💻 All of my projects are available at [https://churchill-daniel--pi.vercel.app/](https://churchill-daniel--pi.vercel.app/)
 
 - 📫 How to reach me **churchilldaniel687@gmail.com**
 
