@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/chu_rill" target="blank"><img src="https://img.shields.io/twitter/follow/chu_rill?logo=twitter&style=for-the-badge" alt="chu_rill" /></a> </p>
 
-- 🔭 I’m currently working on **full stack chat app **
+- 🔭 I’m currently working on **Hotel Management Server in NestJs**
 
-- 🌱 I’m currently learning **Reactjs and Nodejs**
+- 🌱 I’m currently learning **Golang and NestJs**
 
 - 👨‍💻 All of my projects are available at [https://churchill-daniel--pi.vercel.app/](https://churchill-daniel--pi.vercel.app/)
 
