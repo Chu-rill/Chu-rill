@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/chu_rill" target="blank"><img src="https://img.shields.io/twitter/follow/chu_rill?logo=twitter&style=for-the-badge" alt="chu_rill" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel Management Server in NestJs**
+- 🔭 I’m currently working on **Anything that is interesting at the moment 🙃.**
 
 - 🌱 I’m currently learning **Golang and NestJs**
 
