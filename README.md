@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Golang and NestJs**
 
-- 👨‍💻 All of my projects are available at [https://churchill-daniel--pi.vercel.app/](https://churchill-daniel--pi.vercel.app/)
+- 👨‍💻 My bset projects are available at [https://churchill-daniel.vercel.app/](https://churchill-daniel.vercel.app/)
 
 - 📫 How to reach me **churchilldaniel687@gmail.com**
 
