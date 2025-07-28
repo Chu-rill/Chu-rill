@@ -24,14 +24,29 @@
 <a href="https://linkedin.com/in/churchill daniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="churchill daniel" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">My Skills</h2>
+<h3 align="center">Main stack</h3>
+<h4 align="center">Backend</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,express,github,html,js,mongodb,mysql,nodejs,postgres,postman,obsidian,prisma,react,tailwind,vscode,mint,docker,githubactions,go,jest,laravel,linux,md,nestjs,ts,&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=express,js,mongodb,mysql,nodejs,postgres,prisma,go,laravel,nestjs,ts,&theme=dark&perline=3" />
   </a>
 </p>
 
+<h4 align="center">Frontend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,react,tailwind,ts,&theme=dark&perline=3" />
+  </a>
+</p>
+
+<h4 align="center">Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,obsidian,vscode,mint,docker,githubactions,jest,linux,md,&theme=dark&perline=3" />
+  </a>
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chu-rill&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="chu-rill" /></p>
